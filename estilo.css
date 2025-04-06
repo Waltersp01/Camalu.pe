@@ -1,5 +1,5 @@
 .custom-card {
-    width: 18rem;      /* Ancho fijo: 18 rem (puedes ajustar según necesidad) */
+    width: 40rem;      /* Ancho fijo: 18 rem (puedes ajustar según necesidad) */
     height: 200px;     /* Alto fijo: 400px */
     overflow: hidden;  /* Para evitar que el contenido se desborde */
     display: flex;
